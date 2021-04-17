@@ -1,1 +1,2 @@
-# Agebt-script
+# Agent-script
+This repository is to store bash shell scripts
